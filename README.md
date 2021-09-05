@@ -1,0 +1,5 @@
+# StethoDoc: Democratising Screening for Lung Disorders with an Augmented Reality Guided Smart Stethoscope 
+StethoDoc is an augmented reality guided smart stethoscope system. 
+It allows non-medical laypersons to perform accurate pulmonary screening at a fraction of the traditional cost, thus reducing the pressure on the overburdened healthcare system. StethoDoc has two main components in the form of a smartphone app - an interactive augmented reality frontend which guides the user in placing the stethoscope at the correct sites and an artificial intelligence backend for identifying pulmonary disorders. The app is connected to a generic stethoscope via a microphone. 
+The algorithm used for guiding the user in placing the stethoscope on the body was able to map auscultation sites with 96% accuracy. 
+The lung disorder detection model was validated on 2070 publicly-available respiratory sound recordings where it showed an accuracy of 81%, suggesting that this system is viable as an accurate screening tool. 
